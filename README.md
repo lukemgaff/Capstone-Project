@@ -34,6 +34,7 @@ These experiences motivated me to examine the data behind those changes and bett
 ---
 ## Standardizing the Data
 Data was standardized to a 2020-2023 annual timeframe. Monthly market indicators was aggregated annually, parcel data was filtered to single-family home sales, and ACS income data was aligned at the ZIP (ZCTA) level using population-weighted averages. A price-to-income ratio was then calculated by dividing median home sale prices by median household income, providing a consistent measure of housing affordability across time and geography.
+
 ---
 ## Problems and Hurdles
 - Aligning ZIP codes across datasets
